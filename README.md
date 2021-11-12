@@ -3,10 +3,10 @@
 <!--
 **imranhossainppip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### 💻Software Engineer. 
+### 💻Web Developer. 
 ![Imran's github stats](https://github-readme-stats.vercel.app/api?username=imranhossainppip&show_icons=true&count_private=true)
 
->Software Engineer, WordPress Enthusiast, Freelancer, WP Plugin Developer
+>Web Developer
 
 - 🔭 I’m currently working on `PHP`, `laravel`,`Vue JS`, `jQuery`, `Javascript`
 - 🌱 I’m currently learning `javascript` and  `laravel` 
